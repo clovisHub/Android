@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InfoAndPicture</string>
+    <string name="lbl_name">name</string>
+    <string name="lbl_lastName">last name</string>
+    <string name="lbl_takePicture">Take A Picture</string>
+    <string name="lbl_sendInfo">Send Info</string>
+</resources>
